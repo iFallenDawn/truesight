@@ -1,0 +1,9 @@
+site_name: True Sight
+theme:
+  name: material
+  palette:
+    scheme: slate
+  favicon: images/Skill_True_Sight.png
+  logo: images/Skill_True_Sight.png
+
+extra_css: [stylesheets/extra.css]

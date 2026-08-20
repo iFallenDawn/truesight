@@ -1,0 +1,10 @@
+[project]
+name = "truesight"
+version = "0.1.0"
+description = "Jordan's MapleStory guides"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "mkdocs>=1.6.1",
+    "mkdocs-material>=9.7.7",
+]
