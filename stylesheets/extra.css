@@ -1,0 +1,12 @@
+[data-md-color-scheme="slate"] strong {
+    color: #00f5c0;
+    /* Change to your desired color */
+    font-weight: 700;
+    /* Adjust boldness intensity if needed */
+}
+
+.md-typeset pre code {
+    white-space: pre-wrap !important;
+    word-break: break-all;
+    /* Breaks long words/strings if needed */
+}
