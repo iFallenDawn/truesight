@@ -47,6 +47,16 @@ P3
     - [Watch this for bird and tiger patterns](https://youtu.be/wucyLIsf684?si=nJ_XkjF4HpMjcbxl&t=1718 - )
 - Clutch will not spawn when Kaling is bound.
 
+## Inven Hitboxes/Useful Links
+
+All hitboxes will be taken from these links.
+
+[MaplestoryWiki on Kaling](https://maplestorywiki.net/w/Kaling/Monster) -  Has some useful info about attack cds
+
+[Maple inven post on Kaling hitboxes](https://www.inven.co.kr/board/maple/2304/45564) - Bird, Tiger, Dog, Kaling hitboxes
+
+[Maple inven post on Kaling map pattern hitboxes](https://www.inven.co.kr/board/maple/2304/45565) - P2 tendrils and fmas, and P3 animal hitboxes
+
 ## Dawn Warrior Reference Runs
 
 [6 burst timeout](https://www.youtube.com/watch?v=IThQQoALF6k) - If I didn’t lag so far behind on burst timings and tiger died earlier this would’ve cleared. 6 burst is a lot harder than 5 burst but it is doable. **We haven’t seen a 6 burst dw p1 clear yet.**
@@ -77,12 +87,6 @@ This guide does not cover
     - Yu garden buff
     - Concentration title
     - Tangyoon
-
-[MaplestoryWiki on Kaling](https://maplestorywiki.net/w/Kaling/Monster) -  Has some useful info about attack cds
-
-[Maple inven post on Kaling hitboxes](https://www.inven.co.kr/board/maple/2304/45564) - Bird, Tiger, Dog, Kaling hitboxes
-
-[Maple inven post on Kaling map pattern hitboxes](https://www.inven.co.kr/board/maple/2304/45565) - P2 tendrils and fmas, and P3 animal hitboxes
 
 **Your main goal is to always be popping burst off cd in p1, so you have some leeway to leak in p2, and then always off cd in p3.** You have about 30s of leeway before you end up losing part of your 16th burst (as in 15:30 latest), a good indicator is if you’re bursting on every even minute mark or before it.
 

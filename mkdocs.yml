@@ -5,5 +5,6 @@ theme:
     scheme: slate
   favicon: images/Skill_True_Sight.png
   logo: images/Skill_True_Sight.png
-
+plugins:
+  - mkdocs-video
 extra_css: [stylesheets/extra.css]
