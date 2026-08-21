@@ -105,6 +105,8 @@ I am using -2s hat + wings of fate to get my 60s cds down to 56s in test server.
 
 Entry → Pop burst immediately. This includes using hecate styx to extend the bind timer to 24s. **This will delay essence spawn and helps you + damage from styx**
 
+### Vod Reviewing the I/L Run
+
 First essence spawns at like 29:30 or whenever you stand in her hitbox (stand in the hitbox). Cleanse first essence immediately. Dodge everything until RIGHT before 2nd essence spawns. As in, when your purple gauge is about to fill. Should be swapping around 29:14 on the clock. **If you swap earlier, then you won’t have time to get the 3rd burst off in reality.**
 
 Reality pacing is dependent on if you have cd hat or not and whenever she decides to spawn the first essence. The general route is right (105% fd) → right (120%fd) → left (105% fd) → right (120% fd) → right (130%fd) and repeat. This will likely have to change on the fly and you have to do math very quickly to account for it.  Whenever your yellow gauge is full, the 40s countdown starts.
@@ -116,18 +118,24 @@ You can play around with hitbox manipulation to get her to spawn essence as fast
 ![image.png](images/maleficstar/p1orbhitbox.png)
     
 The reason it’s dependent on cd hat and when she spawns essence is because it dictates how much you have to delay taking the altar to give you enough time during that 40 second window of 120 or 130% fd to get your entire burst out. You have to keep looking at your burst cds and checking “okay will this line up in that 40s window”
-    - In the I/L route, he enters 29:14 and his first reality essence spawns at 29:04. He cleanses essence at 29:02, then grabs altar at 28:56 before it expires and immediately does his 60s. **Notice the window he delays altar at 29:02-28:56, and how it starts the 40s timer.** Next essence spawns at 28:49. Break at 28:46 and he grabs immediately for 120% fd.
-    - In my run, I enter 29:12 and first reality essence spawns at 29:09.  Second essence spawns at 28:51 and I grab altar immediately to get 120% fd on part of my 60s.
-        - You likely NEED to delay grabbing altars to some extent after these and maximizing the timer, both for FD and so that you have enough time to get the 3rd burst off.
-    - After that 60s, grab left as close to end of 40s timer as possible. Next is right (delay this right as much as possible too) → right for 130% on 28 min burst. End burst with grabbing left as close to expiring 40s window.
-    - For the 60s at 27 mins, you grab right twice and stack 130% fd → 130% fd. Next essence should be left as close to expiring 40s window as possible → 115% fd. Should be around 50-60s left on the clock. Next essence is right → 130% fd.
-    - To prep 3rd burst 26 mins left, you want to grab left 115% fd, then **SKIP THE ESSENCE**, then grab right to go back to 130% fd and burst.
-        - Be careful of binding and not letting her spawn essence, but if you miss this burst the run might be over.
+
+In the I/L route, he enters 29:14 and his first reality essence spawns at 29:04. He cleanses essence at 29:02, then grabs altar at 28:56 before it expires and immediately does his 60s. **Notice the window he delays altar at 29:02-28:56, and how it starts the 40s timer.** Next essence spawns at 28:49. Break at 28:46 and he grabs immediately for 120% fd.
+
+In my run, I enter 29:12 and first reality essence spawns at 29:09.  Second essence spawns at 28:51 and I grab altar immediately to get 120% fd on part of my 60s. You likely NEED to delay grabbing altars to some extent after these and maximizing the timer, both for FD and so that you have enough time to get the 3rd burst off.
+
+After that 60s, grab left as close to end of 40s timer as possible. Next is right (delay this right as much as possible too) → right for 130% on 28 min burst. End burst with grabbing left as close to expiring 40s window.
+
+For the 60s at 27 mins, you grab right twice and stack 130% fd → 130% fd. Next essence should be left as close to expiring 40s window as possible → 115% fd. Should be around 50-60s left on the clock. Next essence is right → 130% fd.
+
+To prep 3rd burst 26 mins left, you want to grab left 115% fd, then **SKIP THE ESSENCE**, then grab right to go back to 130% fd and burst.
+
+- Be careful of binding and not letting her spawn essence, but if you miss this burst the run might be over.
 
 Back in illusion room cleanse twice, get your 60s off, and **delay switching to reality again until 45s left on your 60s cds**. The priority here is to switch back to reality after the 2 cleanses and the delay, don’t worry about losing fd on 60s. Try not to get hit otherwise you delay your essence spawns and everything else. 
 
 I/L gets into illusion at 25:35 left on clock. First essence at 25:24. Second essence at 25:06. Switches back to reality at 24:55. Spent about 40s in illusion. I think you want to switch back to reality around 40-45s left on cds for your burst to come back up, so you have enough time to grab 3 rights.
-    - I want to say he’s intentionally getting hit sometimes after 2nd essence spawn to delay next spawn, so that he gets proper timing for essence spawn in reality and his cds line up.
+
+- I want to say he’s intentionally getting hit sometimes after 2nd essence spawn to delay next spawn, so that he gets proper timing for essence spawn in reality and his cds line up.
 
 When you switch back into reality, **DO NOT GET HIT BY ANYTHING THAT GIVES YOU GAUGE. You want to make sure you are able to cleanse right 3 times and have 130% fd AND enough time for origin burst at around 24 mins.** If you get hit by attacks that give you gauge, it might put you into the 40s timer too early and screw up your burst timer for 30% fd. Grab left as close to 40s window expire as possible.
 
