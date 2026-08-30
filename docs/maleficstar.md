@@ -85,7 +85,7 @@ These are notes I compiled about the route while screwing around on test server,
 Key notes
 
 - Try your best to not get hit at all in illusion room. You want to switch back to reality and get instant orb spawn when there are 45s left on your 60s cds.
-- If you delay essence spawn (by getting hit too many times in illusion), it fucks your cds and you might have to burst with 120% fd instead of 130%. The only cases you can get hit is if you want to intentionally delay the orb spawning so you can get instant spawn switching from illusion to reality.
+- If you delay essence spawn (by getting hit too many times in illusion), it fucks your cds and you might have to burst with 120% fd instead of 130%. The only cases you can get hit is **if you want to intentionally delay the orb spawning so you can get instant spawn switching from illusion to reality, specifically with your 60s cds.**
 - Altars last 7 seconds from when you cleanse essence, you have to get used to counting down that timer and delaying when necessary
 - In reality, kite star to wherever the whale is not. Or keep her centered.
 - **Reality room has 15s cd on essence no matter what**
@@ -96,6 +96,7 @@ Key notes
 - If star is bound, she CANNOT spawn essence. You can use this to your advantage if you want to use styx or regular bind to delay essence spawn to maximize fd.
 - **You cannot cleanse while in the middle of an animation. This is not like adversary parry, you actually have to pause what you’re doing to interact.**
 - **You can skip essences completely if that screws up your burst timing with 130% fd, ex: around 26:30**
+- Taken from Chodari's notes, for the 20 minute burst and some ending reality bursts as well, you want to stall a little bit in reality before switching back to illusion so you can get instant essence spawn. Since we know that it's 15 seconds between each essence, you can min max that timing too.
 
 I want to say this route doesn’t change with 17 burst strategy but I am speaking with no experience. My theorycrafting is with -4cd hat + not delaying altars or whatever, you should still be able to 17 burst and follow this route. **It just means if you want to guarantee 17 bursts with 130 fd, you have to play all illusions perfectly.**
 
@@ -131,11 +132,9 @@ To prep 3rd burst 26 mins left, you want to grab left 115% fd, then **SKIP THE E
 
 - Be careful of binding and not letting her spawn essence, but if you miss this burst the run might be over.
 
-Back in illusion room cleanse twice, get your 60s off, and **delay switching to reality again until 45s left on your 60s cds**. The priority here is to switch back to reality after the 2 cleanses and the delay, don’t worry about losing fd on 60s. Try not to get hit otherwise you delay your essence spawns and everything else. 
+Back in illusion room cleanse twice, get your 60s off, and **delay switching to reality again until 40-45s left on your 60s cds**. The priority here is to switch back to reality after the 2 cleanses and the delay, don’t worry about losing fd on 60s. Try not to get hit otherwise you delay your essence spawns and everything else. 
 
-I/L gets into illusion at 25:35 left on clock. First essence at 25:24. Second essence at 25:06. Switches back to reality at 24:55. Spent about 40s in illusion. I think you want to switch back to reality around 40-45s left on cds for your burst to come back up, so you have enough time to grab 3 rights.
-
-- I want to say he’s intentionally getting hit sometimes after 2nd essence spawn to delay next spawn, so that he gets proper timing for essence spawn in reality and his cds line up.
+I/L gets into illusion at 25:35 left on clock. First essence at 25:24. Second essence at 25:06. Switches back to reality at 24:55. Spent about 40s in illusion. 
 
 When you switch back into reality, **DO NOT GET HIT BY ANYTHING THAT GIVES YOU GAUGE. You want to make sure you are able to cleanse right 3 times and have 130% fd AND enough time for origin burst at around 24 mins.** If you get hit by attacks that give you gauge, it might put you into the 40s timer too early and screw up your burst timer for 30% fd. Grab left as close to 40s window expire as possible.
 
