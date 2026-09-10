@@ -360,13 +360,12 @@ p3:
 - i think you don't have to do the burst on tiger while all 3 perils are alive. the main consideration is that it's hard to keep dps uptime on tiger when bird/dog are dead since kaling spams attacks on you, but you'll end up in the scenario where kaling is ~35% hp when tiger is dead if you do the extra burst on tiger. you can probably just afford to kill bird/dog before you work on tiger to not have any 'wasted' damage
     - jordan post note, i agree with this completely
 
-# Closing
+## Closing
 
 Hope this guide helps you clear! if it does, feel free to ping me or shoot me a message, or if you want guidance just dm me! preferably send me a vod too + what you think you are struggling with.
 
-# Archives
 
-## Info that is no longer useful because of 9.9.2026 boss changes
+## Archives/Info that is no longer useful
 
 - Ring swapping
 
