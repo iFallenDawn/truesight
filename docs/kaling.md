@@ -272,15 +272,14 @@ You can do most of this phase without having to get hit by her at all if you’r
 
 ## P3
 
-**9.9.2026 - WORK IN PROGRESS AS I HAVEN'T DONE ANY NEW RUNS YET TO KNOW HOW P3 DAMAGE DISTRIBUTION WORKS, REFERENCE THE KMS RUN**
+**9.9.2026 - WORK IN PROGRESS AS I HAVEN'T DONE ANY NEW RUNS YET TO KNOW HOW LENIENT P3 DAMAGE DISTRIBUTION IS, REFERENCES THE KMS RUN**
 
 Big notes
 
-- wat cheese are you doing
+- wat gauges are you blowing up
 - When can Kaling 1 shot you, how to play with kaling on top of you.
 - Her hitboxes, specifically her push hitbox is very deceiving. **Notice how there’s more room on the side she’s not facing, I usually line myself up with the furthest arm from what direction she is facing**
 - The animals are on small little platforms. Be careful to get caught on them when you dash or tp, try to stay on the floor at all times
-- At 6 minute origin burst AND EVERY BURST AFTER **line up Kaling to be in front of you so that you're not wasting burst damage into the void**
 - **TEST FMA HITS THROUGH EVERY IFRAME AND HAS A LINGERING HITBOX except for SOL HECATE DOOR AND ORIGIN**
     - Timer starts 30s after you kill the last animal, and start of every test after. Bind can delay it (if you bind at around 28-29s for example similar to p1 tests).
 
@@ -296,8 +295,6 @@ This is arguably the easiest phase to gain time back from lost burst timings but
 
 Pay attention to when your pot is grayed out because the dog chains will 1 shot you if she’s outside. You have to stand in a spot during your 60s where Kaling will likely walk outside. Her slam will 1 shot you and dog chains will 1 shot you too whenever she’s outside, so pay attention to those.
 
-### Bird
-
 You’re going to have to do some runs experiencing with burst strats.
 
 When you unlock her 1 shot stun slam, understand that if you’re completely tp’d across the map and out of range, she will likely cast it immediately as you re-enter that hitbox and you don’t have enough time to walk across her to dodge it. So be weary of that and dash + equinox slash across or bait it out before walking back in. Would reference the hitbox guide to see the hitboxes of everything, they all roughly have the same cd so expect her to use them in succession and dodge all of them.
@@ -305,6 +302,23 @@ When you unlock her 1 shot stun slam, understand that if you’re completely tp�
 For a comfy run, tiger dies well before the 2 min burst. For a closer run it needs to die during or a little after the 2 min burst and so you don’t bleed a lot of damage into segment. I think in the run I timed out, if tiger died earlier and I had more time for my last burst it was a 6 burst clear. 
 
 My practice sessions for this was to speedrun there in easy kaling, take off symbols/gear, and pay attention to everything + build awareness of when she stepped out
+
+### General Routing
+
+Based off the KMS 16.5 burst clear. Blows up tiger and bird gauge for tiger cheese. **Make sure you are in each animal when you are bursting**
+
+- On entry (15 minutes ish) dog statue on, cosmos in dog.
+- 14:00 burst, bird statue on, burst into bird. Dps bird until cosmos
+- 13:00 dog statue on. cosmos in dog
+- 12:00 bird statue on, origin burst in bird. Dps bird until 11 minute cosmos is up
+- 11:00 dog statue on, cosmos in dog. After cosmos is done, bird statue on and dps bird
+- 10:00 bird statue on, bird should die on this burst or around 9:30 mark
+- Keep dpsing dog until 6 minute origin. Stand in the old cosmos lineup so you can switch into tiger immediately. **Stand in dog and kill dog** on 6 minute origin burst then switch to tiger dps.
+
+![image.png](images/kaling/p3tigerdogcosmos.png)
+
+- 2:00 Kill tiger on or around this burst
+- Kill Kaling
 
 ### P3 FMA
 
@@ -413,7 +427,7 @@ Assuming left start, generally switch when bird is below 5% hp. This happens bef
 
 If you stand on the left edge of the slit, she will be a lot less likely to walk out. **She can still walk out but this is max range for basic attack, watch your pot cd**
 
-#### P3 - Tiger First
+### P3 - Tiger First
 
 If the left side strat doesn’t work out for you, you can try killing tiger alone first. 
 
