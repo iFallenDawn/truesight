@@ -63,7 +63,7 @@ All hitboxes will be taken from these links.
 
 ### Pre 9.9.2026 Boss Changes
 
-These can still be referenced, but P3 will be played differently since the double peril lineups are no longer important.
+These can still be referenced, but P3 will be played differently since the double peril lineups are no longer important. These are all with scouter before HEXA chickens and ring changes (as in permanent continuous ring, before we had to ring swap).
 
 [6 burst timeout](https://www.youtube.com/watch?v=IThQQoALF6k) - If I didn’t lag so far behind on burst timings and tiger died earlier this would’ve cleared. 6 burst is a lot harder than 5 burst but it is doable. **We haven’t seen a 6 burst dw p1 clear yet.**
 
