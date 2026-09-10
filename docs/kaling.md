@@ -6,9 +6,7 @@ This [video guide](https://youtu.be/i2OWw9q4NuE) was made in March 2026. It has 
 
 ## Upcoming Boss Changes
 
-Probably sometime towards END of Crown like 9/9 (our GMS summer update) or after.
-
-[2026/03/16 Orangemushroom patch notes](https://orangemushroom.net/2026/03/16/maple-now-lan-virtual-tour/)
+**These changes are now in GMS as of 9.9.2026**
 
 ```bash
 **Kaling**
@@ -25,11 +23,11 @@ could not.
 
 [Hitbox updates](https://www.inven.co.kr/board/maple/2304/47092?category=%EB%AA%AC%EC%8A%A4%ED%84%B0 )
 
-Whenever we get p1 bird and p2 Kaling targetable during fly, can do some crazy shit like the [F/P in this run](https://youtu.be/Ov-HczjTgO8?si=_jPKhY1Q2O1PJXvr&t=228) to keep Kaling and Bird in the same spot forever
+You can do some crazy stuff like the [F/P in this run](https://youtu.be/Ov-HczjTgO8?si=_jPKhY1Q2O1PJXvr&t=228) to keep Kaling and Bird in the same spot forever
 
 P1 
 
-- Bird is targetable during fly, and so is P2 Kaling - **this means bird starts becomes a lot more viable and easier to do without cd hat. **
+- Bird is targetable during fly, and so is P2 Kaling - **this means bird starts becomes a lot more viable and easier to do without cd hat.**
     - If you start bird, this means you can reliably get your 60s off before test if you time the sol hecate bind. Versus the strat I was using where you pretty much waste majority of your 60s to some rng.
         - Confirmed as of 6.4.26, you can delay bird going into painting with this.
 - Tiger attack delays are increased, as in there’s a lot more time before the hitbox comes out. You can also duck his dash.
@@ -58,6 +56,14 @@ All hitboxes will be taken from these links.
 [Maple inven post on Kaling map pattern hitboxes](https://www.inven.co.kr/board/maple/2304/45565) - P2 tendrils and fmas, and P3 animal hitboxes
 
 ## Dawn Warrior Reference Runs
+
+### Post 9.9.2026 Boss Changes
+
+[16.5 burst 107805](https://www.youtube.com/watch?v=kcbSMR7CdJ0)
+
+### Pre 9.9.2026 Boss Changes
+
+These can still be referenced, but P3 will be played differently since the double peril lineups are no longer important.
 
 [6 burst timeout](https://www.youtube.com/watch?v=IThQQoALF6k) - If I didn’t lag so far behind on burst timings and tiger died earlier this would’ve cleared. 6 burst is a lot harder than 5 burst but it is doable. **We haven’t seen a 6 burst dw p1 clear yet.**
 
@@ -107,46 +113,42 @@ For p2, here are some key points:
     - **NEVER GETTING STUNNED**
     - Not tanking random bomb ticks when necessary.
     - Her attack hitboxes
+    - Timing manual styx bind to prevent her from flying away
 
 Choose one of these things to focus on until you feel good about it, and then move onto the next. 
 
 For p3, here are some key points:
 
-- Whatever class you play, vod review people who have cleared and ask your respective discords/whatever if there are any specific lineups or routes that people take and why they do it. For example, you **NEED** all the burst lineups for dawn warrior, knowing the double peril solar slash will help you significantly
-    - I list all the lineups in this guide like cosmos lineups, burst lineups, double peril lineups, and how far you’re allowed to stand for Dawn Warrior.
+- Whatever class you play, vod review people who have cleared and ask your respective discords/whatever if there are any specific routes that people take and why they do it
 - Pot cooldown and an understanding of “okay she is outside I have to play more careful”
-- Up jumping everything and NEVER dodging into Tiger (assuming dog cheese strat)
+- Up jumping most of Kaling's attacks while playing the peril patterns 
 - **Understand how each attack is on a cooldown, and chances are after she and dog are done being bound, every attack will come out immediately.**
     - If you learn how to desync her attacks with chains you can stay on fountain for a majority of the phase without ever having to upjump except for pushes and slams. You don’t necessarily need to know how to do this but it’s cool to know.
-- **Lining up Kaling during the bursts where 1 animal is already dead. Example is the 6 minute origin burst for a dog cheese, you want Kaling in front of you otherwise you’re losing damage if your skills don’t hit behind you**
+- **Lining up Kaling during the bursts where 1 animal is already dead/her hp threshold is unlocked. You want Kaling in front of you otherwise you’re losing damage if your skills don’t hit behind you**
 - Her attack hitboxes
 
 ## P1
 
 First decide if you want to start in bird or tiger, I don’t really think there’s any reason to start in dog because you will always lose your 60s to test and the benefits of starting in bird (burst off cd and don’t lose willpower) or starting in tiger (no shields) outweigh anything from dog.
 
-The way I view it is if you have a cd hat/don’t mind re-cubing for it, start tiger. If you are a lot stronger than min clear (like 110.5-112k+) and have 3line hat, start bird.
+The way I view it is if you have a cd hat/don’t mind re-cubing for it, start tiger. If you are a lot stronger than min clear (like 109-110k+) and have 3line hat, start bird.
 
-**If you’re going for 5 burst 1 ascent p1, dws save the origin from the second animal, swap to risk taker, and pop it immediately on entering the third animal. This might differ from class to class.**
+**If you’re going for 5 burst 1 ascent p1, dws save the origin from the second animal, and pop origin immediately on entering the third animal. This might differ from class to class.**
 
 ### Starting Bird
 
-Starting bird means you’re bursting off cd and have more leeway later. However, you NEED to be strong enough to kill bird during the 2nd burst and before the 2nd test. You can do fast tiger coil setup and have coils setup for every, burst and 60s mini (though this is only possible if you can get out of the first animal during the second burst or at least 20s before the 60s come back).
-
-You can get away with starting in tiger but if you lose any time in p2 to not controlling her you will lose the 16th burst. I don’t know the exact amount but double coil setup makes up for that and definitely puts you ahead. 
+Starting bird means you’re bursting off cd and have more leeway later. However, you NEED to be strong enough to kill bird during the 2nd burst and before the 2nd test. **This should be significantly easier to do now that bird is targetable during fly.** You can do fast tiger coil setup and have coils setup for every, burst and 60s mini (though this is only possible if you can get out of the first animal during the second burst or at least 20s before the 60s come back).
 
 ### Starting Tiger
 
-Starting tiger means no shields and theoretically have to do less damage! However, cd hat makes life a lot easier but allows you to clear at lower spec (110k) because you start bursting at around 29:36 (the earliest, most people will set it up around 29:32) vs 29:52 in bird. You need to make up that lost time by bursting off cd (but not screwing up flies/test) in the other phases.
-
-If you start tiger p1, you swap into risk taker regardless of what class you are on entry into bird. same with bird → dog
+Starting tiger means no shields and theoretically have to do less damage! However, cd hat makes life a lot easier but allows you to clear at lower spec (106-108k) because you start bursting at around 29:36 (the earliest, most people will set it up around 29:32) vs 29:52 in bird. You need to make up that lost time by bursting off cd (but not screwing up flies/test) in the other phases.
 
 ### Bird
 
-- Drag bird as close to center as possible to shorten flies (there’s a position to make a shorter fly to middle instead of opposite side of the map, though idk what it is). **This is especially important when you're a min clear, because every second of fly wasted is another second of damage you could've done**
+- **As of 9.9.2026, I think dragging bird FARTHER away from center is better because he cannot go into test while he's flying.**
 - Delay test to line up with your cds (~45s cd at least for burst, you can probably do 25s cd or 5s if you’re coming from a different animal).
 - Understand how to force flies and how to delay them. You can force a fly by standing out of all of his hitboxes, it has roughly a 17s cd. You can delay a fly by trying to get him to attack you right before he is supposed to fly
-- **Test timer, is 1 minute from when you break test**
+- **Test timer, is 1 minute from when you break test, and 1 minute from when BIRD spawns into the phase on entry**
 
 ![image.png](images/kaling/p1birdhitboxes.png)
 
@@ -156,7 +158,7 @@ If you’re starting bird and you burst immediately, before the 2x binds are ove
 
 - If you have Sol Hecate: Styx on autocast with cosmos (or manually cast fast enough) and you’re bursting fast enough (as in on bird spawn/entry), you can stall the first test and styx bind before he goes into it. Which means you don’t completely lose your 60s. You can reference my 1 hand solo or bird start min clear to see this in action.
 
-Always try to keep him as close to center as possible, it’s a lot easier to drag him and delay his fly when he’s on bottom left or bottom right.  You can drag him by standing closest to center, though I would dodge all his attacks first because he’ll try to cast all 3 off cd if you stand in the hitboxes.
+If you are trying to drag bird, I would dodge all his attacks first because he’ll try to cast all 3 off cd if you stand in the hitboxes.
 
 I found that 45 is the sweetspot for fly cds (specifically when starting bird), but the second you break his test, force him to fly (stand OUTSIDE of his hitboxes). After that just follow him around and do damage. 5s is also a good number if you're coming from Tiger
 
@@ -203,7 +205,7 @@ Big notes
 
 - **Know your entry time so you can time bind to delay his test and extend your dps,** or you can look at what time the first test starts and go from there
 
-If you have the origin from previous animal, manually switch to risk taker, true sight, and origin immediately. You might have a lot of lingering burst like I did and I just like the idea of using risk taker and playing better, you could also use totaling.
+If you have the origin from previous animal, debuff dog and origin immediately.
 
 **Spend some time in practice mode to learn the delay of his attacks, you still need to get a feel for the cd of them but they’re a lot more reactable now. as in there’s a visual indicator on his back swipe as well as his fart**
 
@@ -214,8 +216,6 @@ Place fountain down and get a feel for when his gas attack is up too. If you are
 For his yellow bar rush attack, I ended up iframing most of these just to make sure I break it with no issues.
 
 The second the first test starts, **TAKE NOTE OF THE TIMER. YOU ARE GOING TO BIND VERY LATE TO DELAY THE NEXT TEST DURING YOUR BURST. Each test is a minute from when the previous one starts.** Example: His test started at 22:40. I would bind BEFORE 21:40 to make sure he doesn’t go into test again and extend my dps/burst. Like at 21:41 or something
-
-At some point during test you need to fix your ring swap and manually swap back to ror. This is why practicing is important, because if you learn the timing you can flash jump the test and swap no problem.
 
 Depending on your pacing you either go for 5 burst 1 ascent, 5 burst no ascent, or 6 burst no ascent p1. 5 burst 1 ascent or 0 ascent you should get out before your 20min burst comes back up, 6 burst you should get out around 19:30-20:00. Check how much damage your ascent does so you know ahead of time of whether or not you need to use it.
 
@@ -234,10 +234,9 @@ Big notes
 ![image.png](images/kaling/p2fma.png)
 
 - Figure out if you can play mid plats and tp back and forth or play bottom
-- Forcing fly and when to chase her
 - **ABUSE FOUNTAIN**
-- Manually ring swapping if needed
 - **Do not ever get stunned by anything. Her bird wings, purple tendrils, tiger slam, and puddle (from 4 ticks)**
+- Styx bind to prevent her from flying away
 
 People usually end up playing mid right and mid mid plat, or under mid plat or on the tp in the bottom right plat. **For the bottom, this is usually because there are no puddles there on the tp or under mid plat.** To the left of that spike where my fountain is under mid plat is the “safe” area.
 
@@ -245,13 +244,17 @@ People usually end up playing mid right and mid mid plat, or under mid plat or o
 
 For p2 I would spend a lot of time rushing there in easy mode and timing out. Similar to baiting out bird attacks to delay fly, you can bait out all 3 of her attacks + scroll to delay fly too. **However, if you want to force her to fly, you need to bait out ALL of her attacks and play on her, otherwise she will tp around.** In my destiny clear run, I didn’t understand this and she tp’d 3 times before she flew.
 
-If you take stand in the blue puddles for long enough (even if you’re iframed), you will get stunned immediately when you get out o pay attention to that. It’s around 4 ticks of it regardless of if you’re iframed or not, DO NOT GET STUNNED OR PREPARE TO WILL.
+- As of 9.9.2026, you don't need to force her fly out to burst as long as you have bind up and bind her the second she starts flying
+
+If you take stand in the blue puddles for long enough (even if you’re iframed), you will get stunned immediately when you get out so pay attention to that. It’s around 4 ticks of it regardless of if you’re iframed or not, DO NOT GET STUNNED OR PREPARE TO USE ERDA/CLASS WILL.
 
 Get a feel for when scroll is up, roughly every 2nd fly is when the cd is done. If you’re not sure just play out of range and bait it out or have someone else time, do not greed.
 
 Her attacks enable before test is done so you want to bind her early if that happens otherwise she can fly away.
 
 **Now when do you decide between chasing her vs letting her fly and tp back?**
+
+- As of 9.9.2026, I firmly believe you always chase her UNLESS she is flying to top right or top left. Always save styx to prevent her from flying to those platforms anyway or flying in general
 
 - If you’re already falling behind on bursting even minute mark, follow her and burst (you can continue waiting if you have cd hat but not too far behind, like 30s behind)
 - If you have leeway, wait for her to tp back.
@@ -261,22 +264,23 @@ Her attacks enable before test is done so you want to bind her early if that hap
 
 I would save dw iframe for every test and try to keep her under bottom mid so it’s shorter fly paths + incase i’m off burst or using 60s, I can use the mid right safe spot to do damage during test too. If dw iframe is up I can continue dpsing, otherwise I can just go to the test safe spot.
 
-You should be able to get out of here during the 3rd burst. If you’re doing 6 burst the 60s on entry is enough.
+You should be able to get out of here during the 3rd burst (before 14 minute burst comes up. so between the 14-16 minute mark). If you’re doing 6 burst the 60s on entry is enough (as in get out before 13 minutes).
 
 You can do most of this phase without having to get hit by her at all if you’re playing well. It’s going to take a lot of practice to get used to because most of us just get out in 1 burst and never play her mechanics anyway.
 
-**The goal here is to get out before the 14 minute burst. I think with 6 burst p1 the goal is to get out before the 12 minute burst.**
+**You should be able to get out of here during the 3rd burst. For 5 burst p1 it's to get out before the 14 minute burst. I think with 6 burst p1 the goal is to get out before the 12 minute burst, but specifically before 60s at 13 minutes.**
 
 ## P3
+
+**9.9.2026 - WORK IN PROGRESS AS I HAVEN'T DONE ANY NEW RUNS YET TO KNOW HOW P3 DAMAGE DISTRIBUTION WORKS, REFERENCE THE KMS RUN**
 
 Big notes
 
 - wat cheese are you doing
-- DW can double peril on the left with basic attack. **Go into easy mode and learn ALL the lineups. Bird/dog cosmos, bird/dog basic attack double peril, bird/dog double peril during burst, dog/tiger cosmos lineup.**
 - When can Kaling 1 shot you, how to play with kaling on top of you.
 - Her hitboxes, specifically her push hitbox is very deceiving. **Notice how there’s more room on the side she’s not facing, I usually line myself up with the furthest arm from what direction she is facing**
 - The animals are on small little platforms. Be careful to get caught on them when you dash or tp, try to stay on the floor at all times
-- At 6 minute origin burst AND EVERY BURST AFTER (assuming bird/dog first), **line up kaling to the right of the tiger slit so your rift hits her while the other 2 animals die. Every burst after that ALSO must have Kaling to the right so you hit styx. Same applies to reverse if u try to kill tiger first**
+- At 6 minute origin burst AND EVERY BURST AFTER **line up Kaling to be in front of you so that you're not wasting burst damage into the void**
 - **TEST FMA HITS THROUGH EVERY IFRAME AND HAS A LINGERING HITBOX except for SOL HECATE DOOR AND ORIGIN**
     - Timer starts 30s after you kill the last animal, and start of every test after. Bind can delay it (if you bind at around 28-29s for example similar to p1 tests).
 
@@ -290,7 +294,67 @@ Attack hitboxes
 
 This is arguably the easiest phase to gain time back from lost burst timings but also the hardest unless you’ve already been holding Kaling. I had to spend a lot of time learning this phase and knowing what can 1 shot me, aka anytime Kaling decides to walk out of dog.
 
-This will mainly cover dw and dog cheese specific strats, I would ask other members of your class who have cleared for more in depth stuff.
+Pay attention to when your pot is grayed out because the dog chains will 1 shot you if she’s outside. You have to stand in a spot during your 60s where Kaling will likely walk outside. Her slam will 1 shot you and dog chains will 1 shot you too whenever she’s outside, so pay attention to those.
+
+### Bird
+
+You’re going to have to do some runs experiencing with burst strats.
+
+When you unlock her 1 shot stun slam, understand that if you’re completely tp’d across the map and out of range, she will likely cast it immediately as you re-enter that hitbox and you don’t have enough time to walk across her to dodge it. So be weary of that and dash + equinox slash across or bait it out before walking back in. Would reference the hitbox guide to see the hitboxes of everything, they all roughly have the same cd so expect her to use them in succession and dodge all of them.
+
+For a comfy run, tiger dies well before the 2 min burst. For a closer run it needs to die during or a little after the 2 min burst and so you don’t bleed a lot of damage into segment. I think in the run I timed out, if tiger died earlier and I had more time for my last burst it was a 6 burst clear. 
+
+My practice sessions for this was to speedrun there in easy kaling, take off symbols/gear, and pay attention to everything + build awareness of when she stepped out
+
+### P3 FMA
+
+If you have sol hecate at level 20, your sol hecate door IFRAMES YOU FROM HER FMA TEST, SO YOU CAN USE THIS TO YOUR ADVANTAGE IF DAMAGE IS FALLING BEHIND. Your origin iframes you too! REMEMBER HER FMA HAS A LINGERING HITBOX DO NOT JUMP BACK IN TOO EARLY, but she is also still targetable during it! **FMA HITS THROUGH EVERY OTHER IFRAME**
+
+- If you bind before fma, it’ll delay that specific fma but won’t delay the one after.
+
+```bash
+if u bound right before its fma, it does delay that fma, but it doesnt delay future fmas
+so in ur scenario, it was supposed to fma at xx:39-40, but u bound right before, 20s later, fma'd at xx:20, but it doesnt delay future fmas, so the next fma was xx:09-10 
+
+```
+
+## More Tenpai Notes Pre 9.9.2026 Patch
+
+Tenpai - some of my notes to supplement the video:
+
+p1 bird:
+
+- you can get bird to slap you multiple times after unbind by standing to the side of him and iframe dashing to the other side, this keeps you in range of his attacks so bird will almost always do 2/3 attacks before first fly
+- if bird flies bottom on first fly, you should play bottom instead of standing top. you need to get bird to attack you so that he doesn't insta fly so that cosmos will come up right as bird finishes 2nd fly
+- when bird lands after 2nd fly, you also want to be standing perma in range of his attacks (i.e. to the side). bird will hide the moment you arent in range
+- if bird flies bottom on the fly right before 2nd burst, you should play top instead so that you force the fly asap
+
+p1 tiger:
+
+- you need coils to activate the moment burst starts but you can activate coils ~13s before minis start. the idea behind double coil is that you can have ~45s to setup coils after minis and only ~30s to setup after burst.
+
+p1 dog:
+
+- if you are playing 5 burst+1 ascent then the origin on dog is pretty much compulsory, origin late is fine because your burst cycle in p2 would be the same as p1 bird where you only origin 10s into burst anyway. so the cds will line up
+
+p2:
+
+- IMO you can afford to chase kaling to start every burst, your burst cycle is 5s sun iframe -> gene iframe -> 5s cut sun iframe -> kaling flies away, so you should never have an issue bursting anywhere on the map
+
+p3:
+
+- i think you don't have to do the burst on tiger while all 3 perils are alive. the main consideration is that it's hard to keep dps uptime on tiger when bird/dog are dead since kaling spams attacks on you, but you'll end up in the scenario where kaling is ~35% hp when tiger is dead if you do the extra burst on tiger. you can probably just afford to kill bird/dog before you work on tiger to not have any 'wasted' damage
+    - jordan post note, i agree with this completely
+
+# Closing
+
+Hope this guide helps you clear! if it does, feel free to ping me or shoot me a message, or if you want guidance just dm me! preferably send me a vod too + what you think you are struggling with.
+
+# Archives
+
+## Info that is no longer useful because of 9.9.2026 boss changes
+
+- Ring swapping
 
 ### Double Peril Bird/Dog Lineup
 
@@ -304,9 +368,9 @@ BENEFITS OF THIS LINEUP
 
 ![image.png](images/kaling/p3birddogsolarslash.png)
 
-Majority of this phase is learning how to play with kaling on top of you and knowing when you can potentially get 1 shot. Pay attention to when your pot is grayed out because the dog chains will 1 shot you if she’s outside. You have to stand in a spot during your 60s where Kaling will likely walk outside. Her slam will 1 shot you and dog chains will 1 shot you too whenever she’s outside, so pay attention to those.
+Majority of this phase is learning how to play with kaling on top of you and knowing when you can potentially get 1 shot. 
 
-### Bird/Dog Lineup for Cosmos
+### Bird/Dos Cosmos Lineup
 
 ![image.png](images/kaling/p3birddogcosmos.png)
 
@@ -320,12 +384,6 @@ My thought process was
 - Inhale fountain, ALWAYS try to dodge into dog and only dodge into bird if you know the tornados aren’t going off. This applies to when you’re on the right cheesing tiger too, if you don’t know tiger’s lightning patterns you’re going to dodge into tiger, get stunned, and die.
 - Up jump clutch if applicable
 
-You’re going to have to do some runs experiencing with burst strats.
-
-- Some runs I had to do 1-2 bursts from inside bird instead of all of them from inside dog. This is because bird had too much hp, it needs to be around 5-6% for it to die during the 6 minute origin. I think doing 2 bursts from bird is too much and then dog will have too much hp
-- My clear run I was able to spare a burst from the left and directly burst into tiger which paid off in the long run in terms of unlocking her hp bars. I also didn’t have to do any bursts from bird and dog AND bird ended up dying at the same time. If you manage to get bird a lot lower like I did, then you do direct damage to Kaling with that origin too instead of some of the ticks being into her segmented hp.
-- I think if your double peril is good enough, you don’t ever have to burst from bird.
-
 ### Bird/Dog Burst Lineup
 
 This is the lineup below to hit dog, bird, **AND HAVE YOUR COSMIC ORBS FLY INTO BIRD. Look at how my head is lined up with the leftmost chain of dog, or go into practice and find a lineup on the floor. Having the orbs fly into bird is very important for damage because otherwise they will fly into Kaling and be lost damage. You can tell if they’re flying into bird by looking at all the explosions on the left**
@@ -334,13 +392,6 @@ This is the lineup below to hit dog, bird, **AND HAVE YOUR COSMIC ORBS FLY INTO 
 
 **Make sure everything is true sighted in advance before your origin bursts**, specifically the animal that you’re not bursting into across the map (tiger or bird).
 
-When you unlock her 1 shot stun slam, understand that if you’re completely tp’d across the map and out of range, she will likely cast it immediately as you re-enter that hitbox and you don’t have enough time to walk across her to dodge it. So be weary of that and dash + equinox slash across or bait it out before walking back in. Would reference the hitbox guide to see the hitboxes of everything, they all roughly have the same cd so expect her to use them in succession and dodge all of them.
-
-For a comfy run, tiger dies well before the 2 min burst. For a closer run it needs to die during or a little after the 2 min burst and so you don’t bleed a lot of damage into segment. I think in the run I timed out, if tiger died earlier and I had more time for my last burst it was a 6 burst clear. 
-
-My practice sessions for this was to speedrun there in easy kaling, take off symbols/gear, and pay attention to everything + build awareness of when she stepped out. Knowing the double peril lineup for basic attack helps a lot with damage.
-
-**I think every dw should try getting bird down to 3-4% before switching over to tiger side and lining up Kaling during that 6 min origin burst. 5-6% is the minimum for bird to die to origin, but it’s better to have some of that damage bleed into Kaling imo.**
 
 ### When to switch sides from left to right?
 
@@ -379,57 +430,3 @@ the route would be something like
 Bird still needs to die around the 1:30-2:30 minute mark for it to be on pace. Kaling also still needs to be lined up during the bursts that aren’t into the hp segments
 
 your double peril lineup on the left still needs to be on point and is arguably harder with kaling having another attack
-
-### P3 FMA
-
-If you have sol hecate at level 20, your sol hecate door IFRAMES YOU FROM HER FMA TEST, SO YOU CAN USE THIS TO YOUR ADVANTAGE IF DAMAGE IS FALLING BEHIND. Your origin iframes you too! REMEMBER HER FMA HAS A LINGERING HITBOX DO NOT JUMP BACK IN TOO EARLY, but she is also still targetable during it! **FMA HITS THROUGH EVERY OTHER IFRAME**
-
-- If you bind before fma, it’ll delay that specific fma but won’t delay the one after.
-
-```bash
-if u bound right before its fma, it does delay that fma, but it doesnt delay future fmas
-so in ur scenario, it was supposed to fma at xx:39-40, but u bound right before, 20s later, fma'd at xx:20, but it doesnt delay future fmas, so the next fma was xx:09-10 
-
-```
-
-## More Tenpai Notes
-
-Tenpai - some of my notes to supplement the video:
-
-p1 bird:
-
-- you can get bird to slap you multiple times after unbind by standing to the side of him and iframe dashing to the other side, this keeps you in range of his attacks so bird will almost always do 2/3 attacks before first fly
-- if bird flies bottom on first fly, you should play bottom instead of standing top. you need to get bird to attack you so that he doesn't insta fly so that cosmos will come up right as bird finishes 2nd fly
-- when bird lands after 2nd fly, you also want to be standing perma in range of his attacks (i.e. to the side). bird will hide the moment you arent in range
-- if bird flies bottom on the fly right before 2nd burst, you should play top instead so that you force the fly asap
-
-p1 tiger:
-
-- you need coils to activate the moment burst starts but you can activate coils ~13s before minis start. the idea behind double coil is that you can have ~45s to setup coils after minis and only ~30s to setup after burst.
-
-p1 dog:
-
-- if you are playing 5 burst+1 ascent then the origin on dog is pretty much compulsory, origin late is fine because your burst cycle in p2 would be the same as p1 bird where you only origin 10s into burst anyway. so the cds will line up
-
-p2:
-
-- IMO you can afford to chase kaling to start every burst, your burst cycle is 5s sun iframe -> gene iframe -> 5s cut sun iframe -> kaling flies away, so you should never have an issue bursting anywhere on the map
-
-p3:
-
-- i think you don't have to do the burst on tiger while all 3 perils are alive. the main consideration is that it's hard to keep dps uptime on tiger when bird/dog are dead since kaling spams attacks on you, but you'll end up in the scenario where kaling is ~35% hp when tiger is dead if you do the extra burst on tiger. you can probably just afford to kill bird/dog before you work on tiger to not have any 'wasted' damage
-    - jordan post note, i agree with this completely
-
-# Closing
-
-Hope this guide helps you clear! if it does, feel free to ping me or shoot me a message, or if you want guidance just dm me! preferably send me a vod too + what you think you are struggling with.
-
-# 6 burst notes from James
-
-[https://www.twitch.tv/videos/2653910816?t=1h49m56s](https://www.twitch.tv/videos/2653910816?t=1h49m56s) - vod died
-
-this run was a solid 6 burst attempt, i came in with only 22 mins on wedding and LC, since i had to re-enter.
-
-the goal is to kill bird with ori and burst tiger on the 2nd ori burst of p3 with this method. also the goal in p2 is to get in basically immediately after burst so you can chip and do 60s (i had to chip like 4% left in p2 so my burst got delayed)
-
-you can see on the 2nd ori burst of p3 bird was at 11%. from my runs 6% is kill range of origin. so if i had gotten it to 6% and used that burst on tiger instead of finishing bird off it would've been on pace for a clear i'm pretty sure (assuming i got out of p2 faster)

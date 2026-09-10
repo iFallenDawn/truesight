@@ -97,6 +97,7 @@ Key notes
 - **You cannot cleanse while in the middle of an animation. This is not like adversary parry, you actually have to pause what you’re doing to interact.**
 - **You can skip essences completely if that screws up your burst timing with 130% fd, ex: around 26:30**
 - Taken from Chodari's notes, for the 20 minute burst and some ending reality bursts as well, you want to stall a little bit in reality before switching back to illusion so you can get instant essence spawn. Since we know that it's 15 seconds between each essence, you can min max that timing too.
+- Saving Genesis/Destiny iframe for illusion room is a viable strategy
 
 I want to say this route doesn’t change with 17 burst strategy but I am speaking with no experience. My theorycrafting is with -4cd hat + not delaying altars or whatever, you should still be able to 17 burst and follow this route. **It just means if you want to guarantee 17 bursts with 130 fd, you have to play all illusions perfectly.**
 
@@ -148,7 +149,10 @@ A general note is right -> right -> left but it will be heavily dependent on all
 
 P3 pacing is 40% left at around 12 min burst.
 
-## Rush vs Black Hole essence Thingy
+## Playing Illusion Room
+If you can, I would try saving destiny/genesis iframe on the last burst of reality so you can use it going into illusion. Illusion is the harder room to master, and I do think it's worth saving/burning iframes when possible to make sure you don't get hit. Learning the triangle patterns helps too!
+
+### Rush vs Black Hole essence Thingy
 
 Top is black hole essence, bottom is rush. The way I like to tell the difference is position of the circle in front (middle vs towards the ground), or the gold vs purple/black behind her (gold is essence, purple/black is rush)
 
