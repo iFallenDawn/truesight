@@ -8,3 +8,8 @@ theme:
 plugins:
   - mkdocs-video
 extra_css: [stylesheets/extra.css]
+nav:
+  - Home: index.md
+  - Kaling: kaling.md
+  - Malefic Star: maleficstar.md
+  - Changelog: changelog.md
