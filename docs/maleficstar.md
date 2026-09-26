@@ -24,17 +24,43 @@ Will not be covering most boss mechanics, can watch [Kobe’s guide](https://you
 
 ## Reference Runs
 
-[Jordan's -4 hat simulation in test server](https://youtu.be/Tc44ILPRYbk)
+[121689 Dawn Warrior No CD hat clear](https://youtu.be/JZVSTqGzlOg)
 
-[-2 I/L min clear](https://www.youtube.com/watch?v=kkuy3Shxcpk) - I/L route played pretty much perfectly besides one mistake. He is running -2s cd hat.
-
-[No cd hat 30 minute simulation](https://youtu.be/Ol4V4HnAW2s)
+[17 burst timeout shadower](https://youtu.be/tKMnVkYAZSg)
 
 [Goated 122.7k Hero Solo -2 hat](https://youtu.be/fJ6c1_w7Fzc?si=daMXE_AKZRbsan0p)
 
+[-2 I/L min clear](https://www.youtube.com/watch?v=kkuy3Shxcpk) - I/L route played pretty much perfectly besides one mistake. He is running -2s cd hat.
+
+## Quick Overview
+
+I would say the hardest part of this boss is knowing how to adjust on the fly based off your cd timers and the essence timers. It doesn't really feel like there's a concrete "oh everyone can just follow this blueprint" because you have to adjust based off all the timers.
+
+- Try your best to not get hit at all in illusion room. **You want to switch back to reality and get instant orb spawn when there are 45s left on your 60s cds.** 40-45s is the sweet spot, but I found 45s to be more lenient in the event she doesn't spawn essence instantly or decides to her longest patterns
+- If you delay essence spawn (by getting hit too many times in illusion), it fucks your cds and you might have to burst with 120% fd instead of 130%. The only cases you can get hit is **if you want to intentionally delay the orb spawning. Pay attention to your 60s cds.**
+- Altars last 7 seconds from when you cleanse essence, you have to get used to counting down that timer and delaying when necessary
+- In reality, kite star to wherever the whale is not. Try to keep her as centered as possible.
+- **Reality room has 15s cd on essence**
+- In reality room, **DO NOT GET HIT BY ANY ATTACKS THAT GIVE YOU GAUGE, ESPECIALLY WHEN YOU ARE SWITCHING BACK FROM ILLUSION. Also means that you can tank everything else. It is equally as important to not miss any of the first 3 essences in the room.** This is because after cleansing 2 orbs in illusion and switching back to reality, if you get hit too many times by attacks that give you gauge it will start the **40s eating timer** early and screw up your 130% fd burst. Attacks that give you gauge:**
+    - Purple whale lightning
+    - Any of Star’s attacks
+- **250 mercedes link is required.** CD hat just lets you get hit more often in illusion and fix your cooldowns to align with 130% fd if you weren't going for 17 burst.
+- If star is bound, she CANNOT spawn essence. You can use this to your advantage if you want to use styx or regular bind to delay essence spawn to maximize fd. **DO NOT HAVE STYX ON AUTOCAST.**
+- **You cannot cleanse while in the middle of an animation. You CAN cleanse essence mid flash jump. This is not like adversary parry, you actually have to pause what you’re doing to interact.**
+- **You can skip essences completely if that screws up your burst timing with 130% fd (as in if you have over 20s left on your cds), ex: around 26:30**. Specifically for the burst at roughly 26 minutes, I wouldn't bother skipping if and only if there is 40 seconds left on the overall room timer. 
+- Taken from Chodari's notes, for the 20 minute burst and some ending reality bursts as well, you want to stall a little bit in reality before switching back to illusion so you can get instant essence spawn. Since we know that it's 15 seconds between each essence, you can min max that timing too.
+    - A good rule of thumb would be 1-2 attacks after she spawns the essence, but it is dependent on which pattern she does. This is covered here [How Much Time Do You Need To Cleanse Essences](#how-much-time-do-you-need-to-cleanse-essences)
+    - Each attack is roughly 4-5 seconds so I tend to wait until the end of the animation of her first attack or mid animation of the 2nd attack after she spawns the essence
+- Saving Genesis/Destiny iframe for illusion room is a viable strategy, I ended up doing this because I'd rather not lose my runs to poor illusion rooms when it's easier to play better in reality
+- I think **the illusion after the 18-18:40 origin burst is the most important illusion.** Through all of my practice, if you get hit at all in this one it will always delay the essence spawns too much to make a comfortable 130% fd burst on the switch back into reality.
+- For P2/P3, if you miss a double essence pattern and only grab 1/2 the essences, that means for the next double essence pattern, the altar will spawn even if you only grab the first essence. If you manage to miss the second essence again, then you gamble on whichever the altar chooses between left and right after it expires.
+    - This has saved me once in practice
+
 ## Guide Notes
 
-This is a guide going in depth about the min clear burst route. The triangle wave patterns might be useful to know too, there’s a relatively safe spot (as in only one triangle wave from the 2nd wave) will hit it that I marked!
+This is a guide going in depth about the min clear burst route. The triangle wave patterns might be useful to know too, there’s a relatively safe spot (as in only one triangle wave from the 2nd wave) will hit it that I marked! [Triangle Patterns](#triangle-wave-patterns)
+
+**All timings are referring to the timer left in the boss.**
 
 KMS clear search term `하드흉성 솔플`
 
@@ -52,9 +78,14 @@ What is important to look at here is purple This is a pattern marked with . It i
 The detection range of the Phase 1 Starlight Echo pattern and the Phase 2 Enhanced Starlight Echo pattern are different. Since Phase 1 is quite narrow, you can control the cycle of the Essence of Illusion by adjusting your distance from the Malefic Star.
 ```
 
-Pretty much, look at the purple areas to force spawn of the essence. This can be abused in P1 to either delay or force the spawn. If you play out of range of the spawn, you delay it. If you play in range, you can force it.
+The giant purple rectangle around her in the first picture is the essence hitbox, though from my experience it seems more consistent if you just stand on top or directly in front of her.
+![image.png](images/maleficstar/p1orbhitbox.png)
 
-## How Much Time Do You Need To Cleanse Essence Attacks
+Look at the purple areas to force spawn of the essence. If you play out of range of the spawn, you delay it. If you play in range, you can force it. **This means you can also fish for certain patterns to come out in the other phases.**
+
+I cover this a bit in my Kaling guide but you can use hitbox manipulation to force her to spawn the essence as well. If you permanently stand in front of her and force out all of those attacks before essence spawn timer is up, you can guarantee her next attack will be the essence. Same applies to any of her other attacks.
+
+## How Much Time Do You Need To Cleanse Essences
 
 The center of the gauge in illusion shows you how long it takes until the next essence spawns. Besides entry (which is roughly 23s), it should always take 15 seconds assuming you don't delay the spawn of the essence at all.
 
@@ -68,7 +99,9 @@ P3 meteor shower → 8 seconds maximum. May be less if you get early essence spa
 
 P3 essence rush → 6 seconds minimum.
 
-**You can bind as soon as you see the empty essence spawn. For the two essence patterns, bind as soon as you see the second essence. The essence will still activate.**
+**You can bind as soon as you see the empty essence spawn and it will still activate. For the two essence patterns, bind as soon as you see the second essence. The essence will still activate.**
+
+An example of essence skipping and attack waiting would be [here in my clear](https://youtu.be/JZVSTqGzlOg?t=680). This is the last burst in reality before I switch back to illusion. I skip 1 essence because my burst cds are over 20s and the origin burst timing would have been too tight. At 12:26 I wait 2 of her attacks (her orb spawning aoe, and her front push) before swapping back to get the instant essence spawn.
 
 ### Example of Essence Cleanse Timing
 
@@ -80,74 +113,51 @@ I’m in p3. My reality timer is ticking down with 130% fd and is at 20s left. e
 
 ## Min Cut Route Notes
 
-These are notes I compiled about the route while screwing around on test server, subject to change.
+The goal of this route is to have 130% fd for every burst (except the entry one).
 
-Key notes
-
-- Try your best to not get hit at all in illusion room. You want to switch back to reality and get instant orb spawn when there are 45s left on your 60s cds.
-- If you delay essence spawn (by getting hit too many times in illusion), it fucks your cds and you might have to burst with 120% fd instead of 130%. The only cases you can get hit is **if you want to intentionally delay the orb spawning so you can get instant spawn switching from illusion to reality, specifically with your 60s cds.**
-- Altars last 7 seconds from when you cleanse essence, you have to get used to counting down that timer and delaying when necessary
-- In reality, kite star to wherever the whale is not. Or keep her centered.
-- **Reality room has 15s cd on essence no matter what**
-- In reality room, **DO NOT GET HIT BY ANY ATTACKS THAT GIVE YOU GAUGE, ESPECIALLY WHEN YOU ARE SWITCHING BACK FROM ILLUSION. Also means that you can tank everything else.** This is because after cleansing 2 orbs in illusion and switching back to reality, if you get hit too many times by attacks that give you gauge it will start the 40s timer early and screw up your 130% fd burst. Attacks that give you gauge:**
-    - Purple whale lightning
-    - Any of Star’s attacks
-- **I think route is doable without cd hat and just 250 mercedes.** CD hat just lets you get hit more often in illusion if you weren't going for 17 burst.
-- If star is bound, she CANNOT spawn essence. You can use this to your advantage if you want to use styx or regular bind to delay essence spawn to maximize fd.
-- **You cannot cleanse while in the middle of an animation. This is not like adversary parry, you actually have to pause what you’re doing to interact.**
-- **You can skip essences completely if that screws up your burst timing with 130% fd, ex: around 26:30**
-- Taken from Chodari's notes, for the 20 minute burst and some ending reality bursts as well, you want to stall a little bit in reality before switching back to illusion so you can get instant essence spawn. Since we know that it's 15 seconds between each essence, you can min max that timing too.
-- Saving Genesis/Destiny iframe for illusion room is a viable strategy
-
-I want to say this route doesn’t change with 17 burst strategy but I am speaking with no experience. My theorycrafting is with -4cd hat + not delaying altars or whatever, you should still be able to 17 burst and follow this route. **It just means if you want to guarantee 17 bursts with 130 fd, you have to play all illusions perfectly.**
-
-I am using -2s hat + wings of fate to get my 60s cds down to 56s in test server. Best I can do without 250 mercedes, but it should be significantly more leeway/easier with cd hat and mercedes. CD hat does give you some leeway later on with how often you can get hit/delay bursts, but if you play perfectly nothing should ever be delayed and you don’t have to delay any altars.
+I want to say this route doesn’t change with 17 burst strategy but I am speaking with no experience. My theorycrafting is with -4cd hat + not delaying altars or whatever, you should still be able to 17 burst and follow this route. **It just means if you want to guarantee 17 bursts with 130 fd, you have to play all illusions close to perfect.** Perfect meaning swapping at the correct times and getting the correct essence spawns.
 
 **You are allowed to get hit ONCE during the ori + styx + regular bind. but you cannot get hit after that. Need that essence to spawn as soon as she is unbound**
 
 Entry → Pop burst immediately. This includes using hecate styx to extend the bind timer to 24s. **This will delay essence spawn and helps you + damage from styx**
 
-### Vod Reviewing the I/L Run
+General rule of thumb for reality is **right -> right -> left -> right -> right, but you cannot solely rely on this pattern.** Leave every illusion after 2 cleanses AND there are 40-45s left on your 60s cds AND intentionally keeping gauge close to max without her spawning the essence.
 
-First essence spawns at like 29:30 or whenever you stand in her hitbox (stand in the hitbox). Cleanse first essence immediately. Dodge everything until RIGHT before 2nd essence spawns. As in, when your purple gauge is about to fill. Should be swapping around 29:14 on the clock. **If you swap earlier, then you won’t have time to get the 3rd burst off in reality.**
+Proper pacing is roughly between 80-81% before the 24 minute origin burst, and hitting p3 40% during the 12 minute origin burst.
 
-Reality pacing is dependent on if you have cd hat or not and whenever she decides to spawn the first essence. The general route is right (105% fd) → right (120%fd) → left (105% fd) → right (120% fd) → right (130%fd) and repeat. This will likely have to change on the fly and you have to do math very quickly to account for it.  Whenever your yellow gauge is full, the 40s countdown starts.
+It's a lot to remember when you're learning the route initially and will take a lot of practice. Being able to multitask and keep track of timers is a necessity.
 
-If you get hit in reality too many times by stuff that gives you yellow gauge and fuck up your gauge/go into 40s mode too early, your run is over too IF the cooldowns don’t line up. But you would lose fd from getting to that 40s through getting hit instead of altar.
+### Vod Reviewing My Run
 
-You can play around with hitbox manipulation to get her to spawn essence as fast as possible by standing in the hitbox, because if she spawns it quick, you can get 120% fd on your 60s.
-    
-![image.png](images/maleficstar/p1orbhitbox.png)
-    
-The reason it’s dependent on cd hat and when she spawns essence is because it dictates how much you have to delay taking the altar to give you enough time during that 40 second window of 120 or 130% fd to get your entire burst out. You have to keep looking at your burst cds and checking “okay will this line up in that 40s window”
+[Run for reference](https://youtu.be/JZVSTqGzlOg)
 
-In the I/L route, he enters 29:14 and his first reality essence spawns at 29:04. He cleanses essence at 29:02, then grabs altar at 28:56 before it expires and immediately does his 60s. **Notice the window he delays altar at 29:02-28:56, and how it starts the 40s timer.** Next essence spawns at 28:49. Break at 28:46 and he grabs immediately for 120% fd.
+The first 3 essences when swapping back into reality (not including your first reality) are **UNMISSABLE** to ensure 130% fd. Otherwise your burst will get massively delayed.
 
-In my run, I enter 29:12 and first reality essence spawns at 29:09.  Second essence spawns at 28:51 and I grab altar immediately to get 120% fd on part of my 60s. You likely NEED to delay grabbing altars to some extent after these and maximizing the timer, both for FD and so that you have enough time to get the 3rd burst off.
+Burst on entry. **Cleanse one essence and swap once the gauge is close to being full**. I skipped styx because it gets her to spawn the essence faster. Getting hit once there did not matter too much, it just means I miss part of the 120% fd for 60s at 28:52. If you get hit more than once, you likely have to re-enter.
 
-After that 60s, grab left as close to end of 40s timer as possible. Next is right (delay this right as much as possible too) → right for 130% on 28 min burst. End burst with grabbing left as close to expiring 40s window.
+On entry to reality, grab 2 rights to get 120% fd. You don't have to count down the first altar when you are at 90% fd, as you want to get back to regular or 105% ASAP. So specifically the sequence between 29:07 -> 28:34 shows how you can immediately grab two rights to get 120% fd, and then countdown the max timer to grab left. 
 
-For the 60s at 27 mins, you grab right twice and stack 130% fd → 130% fd. Next essence should be left as close to expiring 40s window as possible → 115% fd. Should be around 50-60s left on the clock. Next essence is right → 130% fd.
+28:25 -> 27:24. The next goal is to grab 2 rights to get 130% fd. You want to **stall taking the first altar to the max to account for your burst, as you don't want to start the 40s timer too early.** You can instant grab the second one to put yourself at 130% fd for the burst. I'm looking at the 40s timer for this and saw she spawned essence at 00:32. This means the next one will spawn at roughly 00:17. I caught her mid animation when 00:17 rolled around, so I chose to bind to stall that essence spawn even longer for my 10 hour burst. This means that bind wears off at around 00:07 and then she can spawn essence. **I should not have styxed to extend the bind as that was very greedy, I should have used it there to bind when she spawned essence for a safe altar grab and cleanse.** Grab left to go back down to 115% fd.
 
-To prep 3rd burst 26 mins left, you want to grab left 115% fd, then **SKIP THE ESSENCE**, then grab right to go back to 130% fd and burst.
+27:12 -> 26:30. Grab right for 130% fd for the 60s minis, then grab another right just to extend the timer and maximize fd. Grab left to go back down to 115% fd. She spawned it at 26:39. Next spawn is roughly at 26:24.
 
-- Be careful of binding and not letting her spawn essence, but if you miss this burst the run might be over.
+At 26:31 I grab the essence. Notice how there is 00:56 left on the timer and my burst has 27s left on cds. If I grab the essence or force a spawn at 26:24, it will make my burst window very tight. But **because I play out of range from her essence spawn, she cannot spawn it and it's effectively the same as skipping an essence.** Depending on your class, you will likely have to spawn that essence anyway and skip it to make sure the burst window isn't super tight.
 
-Back in illusion room cleanse twice, get your 60s off, and **delay switching to reality again until 40-45s left on your 60s cds**. The priority here is to switch back to reality after the 2 cleanses and the delay, don’t worry about losing fd on 60s. Try not to get hit otherwise you delay your essence spawns and everything else. 
+Specifically for this burst too, you can grab the essence the second you see 00:40 on the clock because that overall reality room timer will override anyway and your timer won't go back up to 00:40, even if you grab right at 00:34.
 
-I/L gets into illusion at 25:35 left on clock. First essence at 25:24. Second essence at 25:06. Switches back to reality at 24:55. Spent about 40s in illusion. 
+Burst. **I am intentionally skipping gene so I can use it in illusion if needed.** She spawns essence at 25:44. I know the next one will be at 25:29. If you wait out the full timer and you are not in the hunger reality mode or whatever it's called, it will auto swap you back without eating you. Here I wait one attack and swap over for the instant essence spawn.
 
-When you switch back into reality, **DO NOT GET HIT BY ANYTHING THAT GIVES YOU GAUGE. You want to make sure you are able to cleanse right 3 times and have 130% fd AND enough time for origin burst at around 24 mins.** If you get hit by attacks that give you gauge, it might put you into the 40s timer too early and screw up your burst timer for 30% fd. Grab left as close to 40s window expire as possible.
+25:30 -> 24:50. I actually get rolled this illusion but luckily it didn't screw up my timers TOO badly. Playing the "safe" window spot so I don't have to worry too much about patterns. Ideally at 24:50, the gauge was close to max for the instant spawn when I swap back into reality. **If I was cd hat here going for 17 burst my run would've likely been over.**
 
-Seems like proper pacing at least for the I/L is hitting p2 (80% health left) on that 24 min origin burst.
+24:49 -> 23:35. Goal is to grab 3 rights. Instant grab the first essence to go from 90% fd -> 105% fd. Delay the 2nd essence from 105% fd -> 120% fd so there is more time to burst. The delayed illusion timing actually works out in my favor here because the 130% fd essence comes up right as my burst does. I see we're at 80.5% before I burst so I know I am on pace. I bind late because I know the timers will align in my favor, and I use styx to help me with the essence pattern. Grab left as late as possible
 
-Depending on your pacing, you might need to skip binding the boss here for the 22 min burst. Grab left before it kicks you out.
+Right -> right -> left for 60s. Left spawns at 22:43, next essence will be at 22:28. I choose to skip the next essence because it would make the burst timing too tight, and I know I have enough time to spawn another one before my burst comes up.
 
-You end up repeating the same route for the rest of the run. Illusion 2 orb cleanse, switch back on 45s left on cds for 60s.
+22:09 -> 21:33. Burst, essence spawns at 00:20 and 21:46. Next spawn is at 21:31. I take left and then wait 2 attacks (before 21:31) and then swap for instant illusion essence spawn. **This sequence is very important, do not linger for too long in reality after your burst or you will screw up all your timers. You want the next essence after you get out of 40s timer to spawn in illusion room, not another one in reality.**
 
-A general note is right -> right -> left but it will be heavily dependent on all the math you have to do. How long you need to stall altars, how long until burst, when the next essence will spawn, etc.
+21:32 -> 17:30 rinse and repeat. **I HAVE FOUND THIS 18 MINUTE ILLUSION TO BE THE MOST IMPORTANT OUT OF ALL OF THEM CDS WISE, it is crucial you do not get hit a lot in this one.** I got hit once but if I didn't, the essence gauge would have been a lot closer to full on my 40-45s mark.
 
-P3 pacing is 40% left at around 12 min burst.
+Rinse and repeat the strategy until clear lol. Be very mindful when you hit p3 because those essence patterns are brutal in terms of timing, see [essence timings above](#how-much-time-do-you-need-to-cleanse-essences)
 
 ## Playing Illusion Room
 If you can, I would try saving destiny/genesis iframe on the last burst of reality so you can use it going into illusion. Illusion is the harder room to master, and I do think it's worth saving/burning iframes when possible to make sure you don't get hit. Learning the triangle patterns helps too!
