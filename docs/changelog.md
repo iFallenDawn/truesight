@@ -4,6 +4,7 @@
 
 ### Malefic Star
 
+- Added the [video version](https://youtu.be/1LpamYlpCzw) of the guide
 - Reorganized the guide
 - Updated reference runs: added my 121689 Dawn Warrior no CD hat clear and a 17 burst timeout Shadower run, removed the test server simulations
 - Added a **Quick Overview** section, consolidating the old min cut route key notes
@@ -11,7 +12,7 @@
     - Added that you can cleanse mid flash jump
     - Added when to skip an essence (over 20s left on cds) and when not to for the ~26 minute burst
     - Added that the illusion after the 18-18:40 origin burst is the most important one
-    - Added missed double essence behavior for P2/P3 (altar spawns off the first essence on the next double pattern)
+    - Added missed double essence behavior for P3 (altar spawns off the first essence on the next double pattern)
 - Moved the P1 essence hitbox picture into the essence spawning section and added notes on hitbox manipulation to force/fish for patterns
 - Renamed "How Much Time Do You Need To Cleanse Essence Attacks" to "How Much Time Do You Need To Cleanse Essences" and added a vod example of essence skipping and attack waiting
 - Rewrote the min cut route: general right → right → left → right → right rule of thumb, when to leave illusion, and pacing checkpoints (80-81% at the 24 minute origin burst, 40% at the 12 minute origin burst)
