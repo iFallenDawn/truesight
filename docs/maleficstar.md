@@ -2,7 +2,7 @@
 
 ## Video Version
 
-WIP one day I'll make one lol, at least after I clear. Probably sometime in September or October.
+[VIDEO VERSION HERE](https://youtu.be/1LpamYlpCzw)
 
 ## Upcoming Boss Changes
 
@@ -53,7 +53,7 @@ I would say the hardest part of this boss is knowing how to adjust on the fly ba
     - Each attack is roughly 4-5 seconds so I tend to wait until the end of the animation of her first attack or mid animation of the 2nd attack after she spawns the essence
 - Saving Genesis/Destiny iframe for illusion room is a viable strategy, I ended up doing this because I'd rather not lose my runs to poor illusion rooms when it's easier to play better in reality
 - I think **the illusion after the 18-18:40 origin burst is the most important illusion.** Through all of my practice, if you get hit at all in this one it will always delay the essence spawns too much to make a comfortable 130% fd burst on the switch back into reality.
-- For P2/P3, if you miss a double essence pattern and only grab 1/2 the essences, that means for the next double essence pattern, the altar will spawn even if you only grab the first essence. If you manage to miss the second essence again, then you gamble on whichever the altar chooses between left and right after it expires.
+- For P3, if you miss a double essence pattern and only grab 1/2 the essences, that means for the next double essence pattern, the altar will spawn even if you only grab the first essence. If you manage to miss the second essence again, then you gamble on whichever the altar chooses between left and right after it expires.
     - This has saved me once in practice
 
 ## Guide Notes
