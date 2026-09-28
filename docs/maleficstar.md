@@ -20,7 +20,7 @@ All hitboxes will be taken from these links.
 
 [Min clear fd maxing strategies](https://www.inven.co.kr/board/maple/2304/46867?p=2&category=%EB%AA%AC%EC%8A%A4%ED%84%B0) - Min max strategy theory. This is the strat we’re going to be following
 
-Will not be covering most boss mechanics, can watch [Kobe’s guide](https://youtu.be/3Lk5_0yNXJA?si=SoCKVNmu0VwnntG2)
+Will not be covering most boss mechanics, can watch [Kobe’s guide](https://youtu.be/3Lk5_0yNXJA)
 
 ## Reference Runs
 
@@ -28,7 +28,7 @@ Will not be covering most boss mechanics, can watch [Kobe’s guide](https://you
 
 [17 burst timeout shadower](https://youtu.be/tKMnVkYAZSg)
 
-[Goated 122.7k Hero Solo -2 hat](https://youtu.be/fJ6c1_w7Fzc?si=daMXE_AKZRbsan0p)
+[Goated 122.7k Hero Solo -2 hat](https://youtu.be/fJ6c1_w7Fzc)
 
 [-2 I/L min clear](https://www.youtube.com/watch?v=kkuy3Shxcpk) - I/L route played pretty much perfectly besides one mistake. He is running -2s cd hat.
 
