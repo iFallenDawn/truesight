@@ -56,6 +56,9 @@ I would say the hardest part of this boss is knowing how to adjust on the fly ba
 - For P3, if you miss a double essence pattern and only grab 1/2 the essences, that means for the next double essence pattern, the altar will spawn even if you only grab the first essence. If you manage to miss the second essence again, then you gamble on whichever the altar chooses between left and right after it expires.
     - This has saved me once in practice
 
+![video.mp4](images/maleficstar/meteorshower.mp4)
+**YOU CAN ACCIDENTALLY SWITCH BACK TO ILLUSION ROOM TOO EARLY DURING THIS P3 PATTERN, it only gets greyed out when the ball is on screen so during it you can press it early. The same applies if you are on high ping for other patterns, be careful about spamming interact** - ty TriplePoint and Tenpai for discovering this
+
 ## Guide Notes
 
 This is a guide going in depth about the min clear burst route. The triangle wave patterns might be useful to know too, there’s a relatively safe spot (as in only one triangle wave from the 2nd wave) will hit it that I marked! [Triangle Patterns](#triangle-wave-patterns)

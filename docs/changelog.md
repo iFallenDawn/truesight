@@ -1,5 +1,12 @@
 # Changelog
 
+## 2026-09-30
+
+### Malefic Star
+
+- Added a P3 meteor shower video to the Quick Overview showing that you can accidentally switch back to the illusion room too early during this pattern, since the interact only greys out while the ball is on screen
+    - The same applies to other patterns if you're on high ping, so be careful about spamming interact
+
 ## 2026-09-26
 
 ### Malefic Star
